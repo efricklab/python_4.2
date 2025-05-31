@@ -1,6 +1,3 @@
-Absolutely! Here's the revised lab with an added **Step 7: View the Expected Output**, which shows students what they should see when they run the program.
-
----
 
 ## 4.2 Lab - Introduction to Functions in Python (GitHub Codespaces Version)
 
