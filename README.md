@@ -33,7 +33,7 @@ Functions are essential building blocks in Python programming, allowing you to e
 
 #### **Step 3: Add a Simple Greeting Function**
 
-Add the following code to the top of the file:
+Verify the contents of the file:
 
 ```python
 # Simple Greeting Function
